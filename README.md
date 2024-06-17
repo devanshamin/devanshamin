@@ -20,13 +20,15 @@ Here are some ideas to get you started:
 
 ### Open-Source Projects
 
-- [LLM-Enhanced Text-Attributed Graph Representation Learning](https://github.com/devanshamin/tag-llm)
-- [Graph Neural Networks (GNN) Experimentation Playground](https://github.com/devanshamin/litgnn)
-- [A customizable and accessible repository for implementing GPT](https://github.com/devanshamin/lego-gpt)
+|Repository | Description|
+|--|--|
+| [tag-llm](https://github.com/devanshamin/tag-llm) | LLM-Enhanced Text-Attributed Graph Representation Learning |
+| [litgnn](https://github.com/devanshamin/litgnn) | Graph Neural Networks (GNN) Experimentation Playground |
+| [lego-gpt](https://github.com/devanshamin/lego-gpt) | A customizable and accessible repository for implementing GPT |
 
 ### Open-Source Contributions
 
-|Library | Pull Request|
-|--|--|
-| [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) | [Implemented CMPNN, a GNN model that improves the molecular graph embeddings by strengthening the message interactions between nodes (atoms) and edges (bonds).](https://github.com/pyg-team/pytorch_geometric/pull/9223) |
-| [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) | [Implemented TAPE, a methodology that improves GNN performance on downstream tasks by utilizing LLM features.](https://github.com/pyg-team/pytorch_geometric/pull/9428) |
+|Library | Pull Request| Description|
+|--|--|--|
+| [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) | [Implemented CMPNN](https://github.com/pyg-team/pytorch_geometric/pull/9223) | A GNN model that improves the molecular graph embeddings by strengthening the message interactions between nodes (atoms) and edges (bonds). |
+| [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) | [Implemented TAPE](https://github.com/pyg-team/pytorch_geometric/pull/9428) | A methodology that improves GNN performance on downstream tasks by utilizing LLM features. |
