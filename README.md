@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 🔎 Research
 
-- 🤗 [LLM Function Calling Datasets](https://huggingface.co/collections/devanshamin/tool-use-6681cb9401c30ad93e8bbb88)
+* LLM Function Calling - 🤗 [Datasets and Fine-tuned models](https://huggingface.co/collections/devanshamin/tool-use-6681cb9401c30ad93e8bbb88)
 
 ### 💼 Projects
 
