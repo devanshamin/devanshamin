@@ -25,15 +25,16 @@ Here are some ideas to get you started:
 
 ### 💼 Projects
 
-|Repository | Description|
-|--|--|
+| Repository | Description |
+|:-:|:-:|
 | [tag-llm](https://github.com/devanshamin/tag-llm) | LLM-Enhanced Text-Attributed Graph Representation Learning |
 | [litgnn](https://github.com/devanshamin/litgnn) | Graph Neural Networks (GNN) Experimentation Playground |
 | [lego-gpt](https://github.com/devanshamin/lego-gpt) | A customizable and accessible repository for implementing GPT |
 
 ### 🚀 Open-Source Contributions
 
-|Library | Pull Request| Description|
-|--|--|--|
-| [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) | [Implemented CMPNN](https://github.com/pyg-team/pytorch_geometric/pull/9223) | A GNN model that improves the molecular graph embeddings by strengthening the message interactions between nodes (atoms) and edges (bonds). |
-| [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) | [Implemented TAPE](https://github.com/pyg-team/pytorch_geometric/pull/9428) | A methodology that improves GNN performance on downstream tasks by utilizing LLM textual features. |
+| Status | Library | Pull Request | Description |
+|:-:|:-:|:-:|:-|
+| 🚧 | [gorilla](https://github.com/ShishirPatil/gorilla) | [Refactor Berkeley Function Call Leaderboard (BFCL)](https://github.com/ShishirPatil/gorilla/pull/510) | Collaborating with researchers from [Berkeley Sky Computing](https://sky.cs.berkeley.edu/) to improve the BFCL codebase. |
+| ✅ | [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) | [Implemented CMPNN](https://github.com/pyg-team/pytorch_geometric/pull/9223) | A GNN model that improves the molecular graph embeddings by strengthening the message interactions between nodes (atoms) and edges (bonds). |
+| ✅ | [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) | [Implemented TAPE](https://github.com/pyg-team/pytorch_geometric/pull/9428) | A methodology that improves GNN performance on downstream tasks by utilizing LLM textual features. |
