@@ -2,8 +2,7 @@
 
 I'm a software engineer with focus in ML/AI.
 
-- 🔭 I was an AI engineer at BioXcel Therapeutics.
-- 🌱 I’m currently training LLMs to use multiple tools.
+- 🔭 Founding ML engineer at a stealth startup. Previously worked at a Biotech company as an AI engineer for 3+ years.
 - 💬 Ask me about Python, Software Engineering, and Machine/Deep learning.
 
 <!--
@@ -35,5 +34,5 @@ Here are some ideas to get you started:
 
 | Status | Library | Pull Request | Description |
 |:-:|:-:|:-:|:-|
-| 🚧 | [gorilla](https://github.com/ShishirPatil/gorilla) | [Refactor Berkeley Function Call Leaderboard (BFCL)](https://github.com/ShishirPatil/gorilla/pull/510) | Collaborating with researchers from [Berkeley Sky Computing](https://sky.cs.berkeley.edu/) to improve the BFCL codebase. |
+| ✅ | [gorilla](https://github.com/ShishirPatil/gorilla) | [Refactor Berkeley Function Call Leaderboard (BFCL)](https://github.com/ShishirPatil/gorilla/pull/510) | Collaborating with researchers from [Berkeley Sky Computing](https://sky.cs.berkeley.edu/) to improve the BFCL codebase. |
 | ✅ | [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) | [Implemented CMPNN](https://github.com/pyg-team/pytorch_geometric/pull/9223) | A GNN model that improves the molecular graph embeddings by strengthening the message interactions between nodes (atoms) and edges (bonds). |
