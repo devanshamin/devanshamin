@@ -2,7 +2,7 @@
 
 I'm a software engineer with focus in ML/AI.
 
-- 🔭 Founding ML engineer at a Stealth AI Startup. Previously worked at a Biotech company as an AI engineer for 3+ years.
+- 🔭 Founding ML engineer at [NeuralLens](https://neurallens.ai/). Previously worked at a Biotech company as an AI engineer for 3+ years.
 - 💬 Ask me about Python, Software Engineering, and Machine/Deep learning.
 
 <!--
