@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔎 Research
-
-* LLM Function Calling - 🤗 [Datasets and Fine-tuned models](https://huggingface.co/collections/devanshamin/tool-use-6681cb9401c30ad93e8bbb88)
-
 ### 💼 Projects
 
 | Repository | Description |
@@ -32,7 +28,7 @@ Here are some ideas to get you started:
 
 ### 🚀 Open-Source Contributions
 
-| Status | Library | Pull Request | Description |
-|:-:|:-:|:-:|:-|
-| ✅ | [gorilla](https://github.com/ShishirPatil/gorilla) | [Refactor Berkeley Function Call Leaderboard (BFCL)](https://github.com/ShishirPatil/gorilla/pull/510) | Collaborating with researchers from [Berkeley Sky Computing](https://sky.cs.berkeley.edu/) to improve the BFCL codebase. |
-| ✅ | [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) | [Implemented CMPNN](https://github.com/pyg-team/pytorch_geometric/pull/9223) | A GNN model that improves the molecular graph embeddings by strengthening the message interactions between nodes (atoms) and edges (bonds). |
+| Library | Pull Request | Description |
+|:-:|:-:|:-|
+| [gorilla](https://github.com/ShishirPatil/gorilla) | [Refactor Berkeley Function Call Leaderboard (BFCL)](https://github.com/ShishirPatil/gorilla/pull/510) | Collaborating with researchers from [Berkeley Sky Computing](https://sky.cs.berkeley.edu/) to improve the BFCL codebase. |
+| [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) | [Implemented CMPNN](https://github.com/pyg-team/pytorch_geometric/pull/9223) | A GNN model that improves the molecular graph embeddings by strengthening the message interactions between nodes (atoms) and edges (bonds). |
