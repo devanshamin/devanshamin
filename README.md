@@ -2,8 +2,8 @@
 
 I'm a software engineer with focus in ML/AI.
 
-- 🔭 Founding ML engineer at [NeuralLens](https://neurallens.ai/). Previously worked at a Biotech company as an AI engineer for 3+ years.
-- 💬 Ask me about Software Engineering, Distributed Systems and Machine/Deep learning.
+- 🔭 Founding ML engineer at [NeuralLens](https://neurallens.ai/)
+- 💬 Ask me about Software Engineering, Distributed Systems and Machine/Deep learning
 
 <!--
 **devanshamin/devanshamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
