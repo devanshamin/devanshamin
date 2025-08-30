@@ -2,7 +2,7 @@
 
 I'm a software engineer with focus in ML/AI.
 
-- 🔭 Founding ML engineer at [NeuralLens](https://neurallens.ai/)
+- 🔭 AI engineer at [Charles Schwab](https://www.schwab.com/client-home)
 - 💬 Ask me about Software Engineering, Distributed Systems and Machine/Deep learning
 
 <!--
